@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1389201446
+#1389308061
 index.html
 c2runtime.js
 jquery-2.0.0.min.js
@@ -9,12 +9,15 @@ images\btnstop-sheet0.png
 images\bird-sheet0.png
 images\ghost-sheet0.png
 images\applause-sheet0.png
+images\pig-sheet0.png
 media\clapping.m4a
 media\clapping.ogg
-media\birds.m4a
-media\birds.ogg
-media\oooscary1.m4a
-media\oooscary1.ogg
+media\bird.m4a
+media\bird.ogg
+media\ghost.m4a
+media\ghost.ogg
+media\pig.m4a
+media\pig.ogg
 loading-logo.png
 icon-16.png
 icon-24.png
